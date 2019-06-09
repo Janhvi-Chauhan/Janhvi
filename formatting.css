@@ -2,10 +2,6 @@ body{
 	background-image: linear-gradient(to bottom right,rgb(20,219,252),rgb(67,229,102));
 	margin:0;
 }
-img{
-height:441px;
-width:432px;
-}
 h1{
  color : grey;
  font-family:algerian; 
