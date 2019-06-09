@@ -1,0 +1,116 @@
+body{
+	background-image: linear-gradient(to bottom right,rgb(20,219,252),rgb(67,229,102));
+	margin:0;
+}
+img{
+height:441px;
+width:432px;
+}
+h1{
+ color : grey;
+ font-family:algerian; 
+}
+#intro{
+ font-size:20px;
+ font-family:"bradley hand itc";
+ text-align:center;
+}
+.circle-text-intro{
+	display:table-cell;
+	opacity:0.7;
+	height:500px;
+	width:600px;
+	text-align:center;
+	vertical-align:middle;
+	border-radius:50%;
+	background:rgb(246,244,144);
+	color:black;
+}
+h2{
+ color: rgb(59,139,171);
+ font-family:"castellar";
+}
+hr{
+ color:grey;
+ width:500px;
+ margin-left:0;
+}
+.circle-text-education{
+	display:table-cell;
+	opacity:0.7;
+	height:300px;
+	width:600px;
+	text-align:center;
+	vertical-align:middle;
+	border-radius:50%;
+	background:rgb(246,244,144);
+	color:black;
+}
+#education{
+	text-align:center;
+	font-family:"monotype corsiva";
+}
+.line{
+	margin-left:200px;
+	color:grey;
+	width:200px;
+	border-radius:10;
+}
+h3{
+	color:rgb(104,104,206);
+	text-align:center;
+	font-family:"bskerville old face";
+}
+h5{
+	text-align:center;
+}
+#skills{
+	font-family:"monotype corsiva";
+	text-align:center;
+	font-size:20px;
+	}
+.circle-text-skills{
+	display:table-cell;
+	opacity:0.7;
+	height:500px;
+	width:600px;
+	text-align:center;
+	vertical-align:middle;
+	border-radius:50%;
+	background:rgb(246,244,144);
+	color:black;
+}
+#hobbies{
+ font-family:"monotype corsiva";
+ text-align:center;
+ font-size:25px;
+}
+.circle-text-hobbies{
+	display:table-cell;
+	opacity:0.7;
+	height:500px;
+	width:600px;
+	text-align:center;
+	vertical-align:middle;
+	border-radius:50%;
+	background:rgb(246,244,144);
+	color:black;
+}
+a{
+	font-size:25px;
+}
+.circle-text-github{
+	display:table-cell;
+	opacity:0.7;
+	height:500px;
+	width:600px;
+	text-align:center;
+	vertical-align:middle;
+	border-radius:50%;
+	background:rgb(246,244,144);
+	color:black;
+}
+#contact{
+ background-color:black;
+ color:white;
+}
