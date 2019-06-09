@@ -3,7 +3,6 @@
 	 <link rel="stylesheet" type="text/css" href="formatting.css" />
 	</head>	
 	<body>
-		<img src = "janhvi.jpg">
 		<h1>Janhvi Chauhan</h1>
 		<hr>
 		<div class="circle-text-intro">
